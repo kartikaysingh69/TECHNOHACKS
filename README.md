@@ -8,7 +8,6 @@
 5. [Getting Started](#getting-started)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 The TECHNOHACKS(Data Analytics) is a series of tasks aimed at cleaning and analyzing a dataset. This provides instructions on how to perform data cleaning, calculate summary statistics, and create pivot tables using the dataset.
@@ -49,6 +48,3 @@ To get started with this, make sure you have the following prerequisites:
 
 ## Contributing
 If you would like to contribute or improve the instructions, feel free to open an issue or create a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
