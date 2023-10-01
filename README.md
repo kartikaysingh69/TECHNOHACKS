@@ -42,7 +42,7 @@ To get started with this, make sure you have the following prerequisites:
 - Required libraries or packages (e.g., pandas, numpy) installed if you are using Python.
 
 ## Usage
-1. Clone this repository to your local machine.
+1. Clone this repository (https://github.com/kartikaysingh69/TECHNOHACKS.git)
 2. Follow the instructions for each task mentioned above.
 3. Customize the code and analysis to fit your specific dataset and requirements.
 
