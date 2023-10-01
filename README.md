@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Task 1: Data Cleaning](#task-1-data-cleaning)
-3. [Task 2: Calculate Summary Statistics](#task-2-calculate-summary-statistics)
+3. [Task 3: visualization using histogram](#task-3-visualization-using-histogram)
 4. [Task 4: Pivot Table](#task-4-pivot-table)
 5. [Getting Started](#getting-started)
 6. [Usage](#usage)
@@ -22,11 +22,12 @@ In this task, we will clean the dataset by removing missing values and outliers.
 3. Identify and remove outliers:
    - You can use statistical methods or visualization tools to identify outliers and remove them as needed.
 
-## Task 2: Calculate Summary Statistics
-In this task, we will calculate summary statistics for the cleaned dataset. Summary statistics include mean, median, mode, and standard deviation. Follow these steps:
+## Task 3: Visualization using Histogram
+In this task, we created a histogram or bar chart to visually represent the distribution of data in the dataset.
 
-1. Load the cleaned dataset.
-2. Calculate the mean, median, mode, and standard deviation using appropriate functions or libraries.
+1. Selected one or more variables from the dataset to visualize.
+2. Utilized a plotting library (e.g., Matplotlib, Seaborn) to create a histogram or bar chart.
+3. Analyzed the distribution patterns and drew insights from the visualization.
 
 ## Task 4: Pivot Table
 In this task, we will use pivot tables to summarize data in the dataset. Pivot tables are helpful for aggregating and presenting data in a structured manner. Follow these steps:
