@@ -36,7 +36,7 @@ In this task, we will use pivot tables to summarize data in the dataset. Pivot t
 2. Create pivot tables using tools like pandas in Python or equivalent tools in other software.
 
 ## Getting Started
-To get started with this project, make sure you have the following prerequisites:
+To get started with this, make sure you have the following prerequisites:
 
 - A dataset to analyze.
 - A data analysis tool or programming environment (e.g., Python, R, Excel).
